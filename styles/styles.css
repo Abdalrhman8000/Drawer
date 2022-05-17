@@ -63,3 +63,25 @@ span {
     right: 2%;
     user-select: none;
 }
+
+@media screen and (max-width:671px) {
+    span {
+        color: white;
+        font-size: .8rem;
+    }
+    .tools button {
+        padding: 5px 10px;
+        font-size: 1rem;
+        cursor: pointer;
+    }
+    .tools input {
+        width: 30px;
+        height: 30px;
+        cursor: pointer;
+    }
+    .tools input:last-of-type {
+        background-color: wheat;
+        text-align: center;
+        height: 20px;
+    }
+}
