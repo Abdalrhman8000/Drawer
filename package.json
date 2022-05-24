@@ -1,0 +1,22 @@
+{
+  "name": "drawer",
+  "version": "1.0.0",
+  "description": "<h1>Simple Drawer</h1>\r <p> This Drawer made yo draw simple things with some options</p>\r <h2>Fetures</h2>\r <ul>\r     <li>You can change colors</li>\r     <li>Clear path</li>\r     <li>Change pen size</li>\r     <li>You can use my tool its only one but good for her job</li>\r </ul>\r <h2>1.0.0 V</h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdalrhman8000/Drawer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdalrhman8000/Drawer/issues"
+  },
+  "homepage": "https://github.com/Abdalrhman8000/Drawer#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.35"
+  }
+}
